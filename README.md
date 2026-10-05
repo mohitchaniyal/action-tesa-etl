@@ -66,3 +66,6 @@ curl "http://127.0.0.1:8000/invoices"
 curl "http://127.0.0.1:8000/invoices?invoice_no=51109301"
 curl "http://127.0.0.1:8000/invoices?date_of_issue=2023-07-03"
 ```
+
+### download invoices from 
+https://www.kaggle.com/datasets/devp1866/high-quality-ocr-ready-invoice-pdfs
